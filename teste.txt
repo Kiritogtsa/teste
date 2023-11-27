@@ -1,4 +1,4 @@
-git remote set-url origin git@github.com:Kiritogtsa/teste.git
+git remote set-url origin git@github.com:<nome do usuario>/<nome do repositorio>.git
 esse comando faz com que o url seja do jeito usando as chaves ssd, ele procura as chaves pelo comando e depois se achou ele nao mostra nada
 dai pode acessar o git sem ter nenhum erro
 
